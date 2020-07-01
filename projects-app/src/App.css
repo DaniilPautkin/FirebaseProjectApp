@@ -1,0 +1,12 @@
+.formCont {
+    margin: 0 auto;
+    margin: 10px;
+}
+
+.button {
+    background: rgba(0, 0, 0, 0);
+}
+
+.act {
+    color: red !important;
+}

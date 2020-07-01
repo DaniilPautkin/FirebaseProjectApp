@@ -1,0 +1,21 @@
+[debug] [2020-06-19T14:35:55.294Z] ----------------------------------------------------------------------
+[debug] [2020-06-19T14:35:55.298Z] Command:       E:\Program Files\Node\node.exe C:\Users\HP\AppData\Local\Yarn\Data\global\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-06-19T14:35:55.298Z] CLI Version:   8.4.3
+[debug] [2020-06-19T14:35:55.298Z] Platform:      win32
+[debug] [2020-06-19T14:35:55.298Z] Node Version:  v10.16.3
+[debug] [2020-06-19T14:35:55.300Z] Time:          Fri Jun 19 2020 17:35:55 GMT+0300 (GMT+03:00)
+[debug] [2020-06-19T14:35:55.300Z] ----------------------------------------------------------------------
+[debug] [2020-06-19T14:35:55.301Z] 
+[debug] [2020-06-19T14:35:55.320Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-06-19T14:35:55.321Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\_DEV\_PRJ\REACT\React-Redux-Firebase-App-lesson-19\React-Redux-Firebase-App
+

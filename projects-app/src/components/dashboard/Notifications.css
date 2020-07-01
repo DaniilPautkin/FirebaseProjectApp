@@ -1,0 +1,13 @@
+.notifications {
+    grid-area: notes;
+    background: rgb(241, 241, 241);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.notification {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}

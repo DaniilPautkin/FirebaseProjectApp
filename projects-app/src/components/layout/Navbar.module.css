@@ -1,0 +1,28 @@
+.act {
+    background-color: rgba(0, 0, 0, 0) !important;
+    color: #ccc !important;
+}
+
+.navContainer {
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    background: rgb(37, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.navContainer a {
+    margin: 30px;
+    background-color: rgba(255, 255, 255, 0.061);
+    border-radius: 10px;
+    /* padding: 10px; */
+    text-decoration: none;
+}
+
+.links {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

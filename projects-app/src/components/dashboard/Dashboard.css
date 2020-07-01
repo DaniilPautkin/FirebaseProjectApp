@@ -1,0 +1,7 @@
+.mainContainer {
+    display: grid;
+    width: 60%;
+    margin: 0 auto;
+    grid-template-columns: 7fr 3fr;
+    grid-template-areas: 'list notes';
+}

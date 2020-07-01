@@ -1,0 +1,11 @@
+.listContainer {
+    grid-area: list;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.list {
+    width: 60%;
+}

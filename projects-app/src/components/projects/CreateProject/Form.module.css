@@ -1,0 +1,20 @@
+.formContainer {
+    background: rgb(246, 246, 246);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    width: 20%;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.formContainer input {
+    margin: 10px 0px 10px 0px;
+}
+
+.formContainer button {
+    margin-top: 10px;
+    width: 40%;
+}
